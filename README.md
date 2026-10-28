@@ -67,7 +67,7 @@ The entire experience is built with vanilla HTML, CSS, and JavaScript, without r
 
 ## </> Developer
 
-**Developed by [Raed Mosaed](https://github.com/raedmosaed0)**
+**Developed by [Amrix](https://github.com/raedmosaed0) & [Raed Mosaed](https://github.com/raedmosaed0)**
 
 ---
 
